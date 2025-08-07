@@ -6,18 +6,18 @@
 <body>
     <h1>Welcome to Student Portal</h1>
     <h2>Student Profile</h2>
-    <p>Name: John Doe</p>
-    <p>Roll No: 123456</p>
-    <p>Class: 10th Grade</p>
+    <p>Name: Sai lakshmi</p>
+    <p>Roll No: 2361530214</p>
+    <p>Class: Degree</p>
     <h2>Courses</h2>
     <ul>
-        <li>Mathematics</li>
-        <li>Science</li>
-        <li>English</li>
+        <li>Web technology</li>
+        <li>Pythom</li>
+        <li>PHP</li>
     </ul>
     <h2>Marks</h2>
-    <p>Math: 85</p>
-    <p>Science: 90</p>
-    <p>English: 88</p>
+    <p>Web twchnology: 89</p>
+    <p>Python: 90</p>
+    <p>PHP: 88</p>
 </body>
 </html>
